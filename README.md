@@ -37,7 +37,7 @@
 
 > Project description.
 
-**[Microverse-web-portfolio-project]** This project I am reviewing my code in arcordance to html and css best practices.
+**[my-portfolio-code-review]** This project I am reviewing my code in arcordance to html and css best practices.
 
 ## 🛠 Built With <a name="built-with"></a>
 
